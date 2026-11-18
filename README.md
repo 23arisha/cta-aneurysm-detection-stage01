@@ -31,8 +31,7 @@ stage1_cow_localization/
 ├── README.md
 ├── requirements.txt
 ├── assets/
-│   └── prediction.png         s
-├── notebooks/                         
+│   └── prediction.png                               
 └── src/
     ├── config.py                       # ALL paths and constants – edit this first
     ├── utils.py                        # nnU-Net env setup, file lookup, HU windowing
