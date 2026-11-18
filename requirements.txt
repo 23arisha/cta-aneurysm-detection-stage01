@@ -1,0 +1,9 @@
+numpy<2
+scipy==1.13.1
+pandas
+nibabel
+SimpleITK
+pydicom
+tqdm
+matplotlib
+nnunetv2
