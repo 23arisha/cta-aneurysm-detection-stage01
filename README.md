@@ -12,7 +12,7 @@ around it**. Stage 2 (aneurysm detection) will then train on small, vessel-focus
 
 ![CoW segmentation: CT, ground truth, prediction](assets/prediction.png)
 
-*Axial slices (z = 209–211). Left: CT. Middle: ground-truth vessel mask. Right: nnU-Net CoW prediction.*
+*Axial slices. Left: CT. Middle: ground-truth vessel mask. Right: nnU-Net CoW prediction.*
 
 ## Pipeline
 
